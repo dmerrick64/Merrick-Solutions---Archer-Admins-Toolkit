@@ -20,7 +20,7 @@ AI-assisted development instructions
 
 **Downloads:**
 
-Archer Package (.zip)
+Archer Packages (.zip)
 
 Source Distribution (.zip)
 
